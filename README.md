@@ -11,14 +11,14 @@ In this project, as a new data engineer at Pewlett Hackard, I took on the challe
 - Database Creation: Executed SQL commands to create tables in the correct sequence, accounting for dependencies due to foreign keys.
 - Data Importation: Successfully imported data from CSV files into the SQL database, adhering to the schema requirements.
 ## Data Analysis ##
-Conducted comprehensive SQL queries to extract and analyze employee data, focusing on:
-- Employee details (numbers, names, sexes, salaries).
-- Employees hired in 1986.
-- Managers for each department.
-- Department details for all employees.
-- Employees with specific name criteria.
-- Personnel in the Sales, and Sales & Development departments.
-- Frequency counts of employee last names.
+- Conducted comprehensive SQL queries to extract and analyze employee data, focusing on:
+  - Employee details (numbers, names, sexes, salaries).
+  - Employees hired in 1986.
+  - Managers for each department.
+  - Department details for all employees.
+  - Employees with specific name criteria.
+  - Personnel in the Sales, and Sales & Development departments.
+  - Frequency counts of employee last names.
 ## Technical Proficiency ##
 - Demonstrated expertise in SQL for data manipulation and querying.
 - Applied data analysis skills to derive meaningful insights from complex datasets.
